@@ -18,7 +18,7 @@ Spk 1 is a 24-year-old male, while spk 2 is a 24-year-old female. Both spk 1 and
         <th>Spk 2 f16</th>
     </tr>
     <tr>
-      <td>noise</td>
+      <td>noisy</td>
       <td><img src="https://raw.githubusercontent.com/CaA23187/TriU-Net_demo/main/spectrograms/9ULA_synth_kkl_babble_snr-5.jpg"><audio src="https://raw.githubusercontent.com/CaA23187/TriU-Net_demo/main/real%20recording/spk1/babble/9ULA_synth_kkl_babble_snr-5.wav" controls></td>
       <td><img src="https://raw.githubusercontent.com/CaA23187/TriU-Net_demo/main/spectrograms/9ULA_synth_yzh_babble_snr-5.jpg"><audio src="https://raw.githubusercontent.com/CaA23187/TriU-Net_demo/main/real%20recording/spk2/babble/9ULA_synth_yzh_babble_snr-5.wav" controls></td>
       <td><img src="https://raw.githubusercontent.com/CaA23187/TriU-Net_demo/main/spectrograms/9ULA_synth_kkl_babble_snr-5.jpg"><audio src="https://raw.githubusercontent.com/CaA23187/TriU-Net_demo/main/real%20recording/spk1/f16/9ULA_synth_kkl_f16_snr-5.wav" controls></td>
@@ -80,6 +80,7 @@ Spk 1 is a 24-year-old male, while spk 2 is a 24-year-old female. Both spk 1 and
 
 
 
+
 ## Synthetic Data
 
 <table>
@@ -90,7 +91,7 @@ Spk 1 is a 24-year-old male, while spk 2 is a 24-year-old female. Both spk 1 and
         <th>Spk 2 SNR:-3.43 dB</th>
     </tr>
     <tr>
-      <td>noise</td>
+      <td>noisy</td>
       <td><img src="https://raw.githubusercontent.com/CaA23187/TriU-Net_demo/main/spectrograms/1_sir-5.36dB_noisyR0.95_noisy.jpg"><audio src="https://raw.githubusercontent.com/CaA23187/TriU-Net_demo/main/test%20set/spk1/1_sir-5.36dB_noisyR0.95_noisy.wav" controls></td>
       <td><img src="https://raw.githubusercontent.com/CaA23187/TriU-Net_demo/main/spectrograms/4_sir-3.43dB_noisyR0.67_noisy.jpg"><audio src="https://raw.githubusercontent.com/CaA23187/TriU-Net_demo/main/test%20set/spk2/4_sir-3.43dB_noisyR0.67_noisy.wav" controls></td>
     </tr>
@@ -127,6 +128,7 @@ Spk 1 is a 24-year-old male, while spk 2 is a 24-year-old female. Both spk 1 and
     <col style="width: 5%;">
   </colgroup>
 </table>
+
 
 
 
